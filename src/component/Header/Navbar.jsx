@@ -20,15 +20,15 @@ const Navbar = () => {
                 </div>
                 <div className='flex items-center justify-center'>
                     <img className='w-10' src="../../../src/assets/logo.png" alt="no jpg" />
-                <a className="btn btn-ghost text-xl">Law.BD</a>
+                    <a className="btn btn-ghost text-xl">Law.BD</a>
                 </div>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                <li><Link>Home</Link></li>
-                        <li><Link>My-Bookings</Link></li>
-                        <li><Link>Blogs</Link></li>
-                        <li><Link>Contact Us</Link></li>
+                    <li><Link to='/'>Home</Link></li>
+                    <li><Link>My-Bookings</Link></li>
+                    <li><Link>Blogs</Link></li>
+                    <li><Link>Contact Us</Link></li>
                 </ul>
             </div>
             <div className="navbar-end">
