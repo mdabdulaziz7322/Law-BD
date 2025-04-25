@@ -3,8 +3,8 @@ import {
   } from "react-router";
 import Home from "../Home/Home";
 import Root from "../Root/Root";
-
-
+import Doctors from "../Doctors/Lawyers";
+import { Suspense } from "react";
 
 
 export const router = createBrowserRouter([
@@ -18,7 +18,8 @@ export const router = createBrowserRouter([
           index: true,
           path: "/",
           Component:Home
-        }
+        },
+        
       ]
     },
   ]);
