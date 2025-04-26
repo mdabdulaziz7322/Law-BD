@@ -23,7 +23,8 @@
         "fee": "$130/hour",
         "availability": [
             "Tuesday",
-            "Thursday"
+            "Thursday",
+            "Wednesday"
         ]
     },
     {
@@ -36,6 +37,7 @@
         "fee": "$120/hour",
         "availability": [
             "Monday",
+            "Thursday",
             "Wednesday"
         ]
     },
