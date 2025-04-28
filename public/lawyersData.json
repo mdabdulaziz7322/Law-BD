@@ -6,7 +6,7 @@
         "speciality": "Criminal Law",
         "experience": "8 years",
         "licenseNumber": "CLX-109283",
-        "fee": "$150/hour",
+        "fee": 150,
         "availability": [
             "Monday",
             "Wednesday",
@@ -20,7 +20,7 @@
         "speciality": "Family Law",
         "experience": "10 years",
         "licenseNumber": "FLY-208374",
-        "fee": "$130/hour",
+        "fee": 130,
         "availability": [
             "Tuesday",
             "Thursday",
@@ -34,7 +34,7 @@
         "speciality": "Immigration Law",
         "experience": "6 years",
         "licenseNumber": "IMG-394820",
-        "fee": "$120/hour",
+        "fee": 120,
         "availability": [
             "Monday",
             "Thursday",
@@ -48,7 +48,7 @@
         "speciality": "Corporate Law",
         "experience": "12 years",
         "licenseNumber": "COR-879134",
-        "fee": "$200/hour",
+        "fee": 200,
         "availability": [
             "Monday",
             "Thursday",
@@ -62,7 +62,7 @@
         "speciality": "Real Estate Law",
         "experience": "7 years",
         "licenseNumber": "REA-561287",
-        "fee": "$140/hour",
+        "fee": 140,
         "availability": [
             "Tuesday",
             "Friday"
@@ -75,7 +75,7 @@
         "speciality": "Environmental Law",
         "experience": "9 years",
         "licenseNumber": "ENV-761903",
-        "fee": "$180/hour",
+        "fee": 180,
         "availability": [
             "Wednesday",
             "Thursday"
@@ -88,7 +88,7 @@
         "speciality": "Civil Rights Law",
         "experience": "11 years",
         "licenseNumber": "CIV-378294",
-        "fee": "$160/hour",
+        "fee": 160,
         "availability": ["Monday", "Tuesday"]
       },
       {
@@ -98,7 +98,7 @@
         "speciality": "Intellectual Property Law",
         "experience": "5 years",
         "licenseNumber": "IPL-682947",
-        "fee": "$170/hour",
+        "fee": 170,
         "availability": ["Wednesday", "Friday"]
       },
       {
@@ -108,7 +108,7 @@
         "speciality": "Tax Law",
         "experience": "15 years",
         "licenseNumber": "TAX-192384",
-        "fee": "$190/hour",
+        "fee": 190,
         "availability": ["Tuesday", "Thursday"]
       },
       {
@@ -118,7 +118,7 @@
         "speciality": "International Law",
         "experience": "13 years",
         "licenseNumber": "INT-873240",
-        "fee": "$210/hour",
+        "fee": 210,
         "availability": ["Monday", "Wednesday", "Friday"]
       },
       {
@@ -128,7 +128,7 @@
         "speciality": "Labor Law",
         "experience": "6 years",
         "licenseNumber": "LAB-293847",
-        "fee": "$145/hour",
+        "fee": 145,
         "availability": ["Tuesday", "Thursday"]  
       },
       {
@@ -138,7 +138,7 @@
         "speciality": "Healthcare Law",
         "experience": "9 years",
         "licenseNumber": "HCL-984321",
-        "fee": "$155/hour",
+        "fee": 155,
         "availability": ["Wednesday", "Friday"]
       }
 ]

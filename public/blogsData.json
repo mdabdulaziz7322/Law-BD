@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Alex Morgan",
+      "question": "What should I do immediately after a car accident?",
+      "answer": "First, ensure everyone's safety, call emergency services, document the scene, and contact your attorney before speaking to insurance companies.",
+      "publishDate": "2024-12-01"
+    },
+    {
+      "id": 2,
+      "name": "Sophia Chen",
+      "question": "How long do I have to file a personal injury claim?",
+      "answer": "Typically, you have two years from the date of the injury, but it can vary by state, so act quickly.",
+      "publishDate": "2025-01-10"
+    },
+    {
+      "id": 3,
+      "name": "Daniel Rodriguez",
+      "question": "Can I fight a traffic ticket without a lawyer?",
+      "answer": "Yes, but a lawyer can help increase your chances of dismissal or reduction, especially for serious offenses.",
+      "publishDate": "2025-01-22"
+    },
+    {
+      "id": 4,
+      "name": "Maria Lopez",
+      "question": "What are my rights during a police stop?",
+      "answer": "You have the right to remain silent and refuse consent to a search. Always stay calm and respectful.",
+      "publishDate": "2025-02-03"
+    },
+    {
+      "id": 5,
+      "name": "Ethan Patel",
+      "question": "Is a verbal agreement legally binding?",
+      "answer": "In many cases, yes. However, proving the terms of a verbal agreement can be difficult without documentation.",
+      "publishDate": "2025-02-14"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Thompson",
+      "question": "When should I update my will?",
+      "answer": "Update your will after major life changes such as marriage, divorce, the birth of a child, or significant financial changes.",
+      "publishDate": "2025-02-25"
+    },
+    {
+      "id": 7,
+      "name": "Noah Kim",
+      "question": "Do I need a lawyer to start a business?",
+      "answer": "While not legally required, having a lawyer can help you set up the right structure and avoid costly mistakes.",
+      "publishDate": "2025-03-08"
+    },
+    {
+      "id": 8,
+      "name": "Ava Johnson",
+      "question": "What should I do if I receive a subpoena?",
+      "answer": "Contact your attorney immediately. Do not ignore it, as failing to comply can lead to legal consequences.",
+      "publishDate": "2025-03-20"
+    },
+    {
+      "id": 9,
+      "name": "Liam Brown",
+      "question": "How can I protect my intellectual property?",
+      "answer": "Consider trademarks, copyrights, and patents. Consult with an attorney for the best strategy for your situation.",
+      "publishDate": "2025-04-01"
+    },
+    {
+      "id": 10,
+      "name": "Emma Wilson",
+      "question": "What is the difference between civil and criminal law?",
+      "answer": "Civil law deals with disputes between individuals or organizations, while criminal law involves prosecution by the state for violations of laws.",
+      "publishDate": "2025-04-15"
+    }
+]
+  
