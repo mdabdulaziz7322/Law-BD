@@ -69,7 +69,7 @@ const LawyerDetails = () => {
           </div>
           <p className='font-bold mt-3'>Consultation Fee: <span className='text-[#0EA106]'>${singleLawyer.fee} /hour</span> </p>
 
-        </div>
+        </div>    
       </div>
       <div className="card card-side bg-base-100 shadow-sm border-1 rounded-3xl p-5 mt-5">
 

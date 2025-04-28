@@ -4,6 +4,7 @@ import Doctor from '../Doctor/Lawyer';
 const Doctors = () => {
     const [lawyers, setLawyer] = useState([]);
     const [ShowMore, setShowMore] = useState(false);
+    const [loading, setLoading] = useState(true);
 
         const lawyerToShow = ShowMore ? lawyers : lawyers.slice(0, 6);
 
@@ -16,7 +17,10 @@ const Doctors = () => {
         fetch('lawyersData.json')
             .then(res => res.json())
             .then(data => setLawyer(data))
+            .then(() => setLoading(false));
     }, [])
+    if (loading) return <div className='text-center'>Loading...</div>;
+
     
     return (
         
